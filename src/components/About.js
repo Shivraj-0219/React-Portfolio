@@ -9,8 +9,7 @@ function AboutView() {
         <div class="about__data">
           <img src="./images/pexels-media-2524368.png" alt="about__img" class="about__img"></img>
           <p class="about__description">
-            Here , I am Shivraj Muttagi.Being an fresher,I have created my own personal portfolio showcasing my technical skills which I have learnt after completion of graduation in Electronics and Communication Stream .Inspite facing some difficulties through changing stream to IT, I am very interested and open for hiring in field of IT Industry.I have strong desire to work with upcoming disruptive technologies and contribute through best of my expierence .At present, I am happy working on
-            freelancing projects helping local business to scale up clients towards thier Sales and Services.
+            Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisqua
           </p>
         </div>
 
