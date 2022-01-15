@@ -6,11 +6,11 @@ function HomeView() {
       <div class="home__view">
         <div class="tagline">
           <p>
-            <span style={{ "background-color": "black" }}>Are You In Search of Creative Front-End Developer ,I am Ready to work with you!!!</span>
+            <span style={{ "background-color": "black" }}>Are You In Search of MERN Stack Developerand Devops Engineer,Glad to connect with you!!!</span>
           </p>
         </div>
         <div class="hireme">
-          <a href="#contact">Hire me</a>
+          <a href="#contact">Hire Me</a>
         </div>
       </div>
     </section>
