@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.c279d164.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.52d5ba00.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.52d5ba00.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0ad08de7.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0ad08de7.js.map",
+    "static/js/2.c6eac39d.chunk.js": "/React-Portfolio/static/js/2.c6eac39d.chunk.js",
+    "static/js/2.c6eac39d.chunk.js.map": "/React-Portfolio/static/js/2.c6eac39d.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.8c1d86f604bc47d55fa5285e26095178.js": "/React-Portfolio/precache-manifest.8c1d86f604bc47d55fa5285e26095178.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.c279d164.chunk.css.map": "/React-Portfolio/static/css/main.c279d164.chunk.css.map",
+    "static/js/2.c6eac39d.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.c6eac39d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Portfolio/static/media/tabmode.2a6fd761.png",
+    "static/media/work1.jpg": "/React-Portfolio/static/media/work1.191feb90.jpg",
+    "static/media/work2.jpg": "/React-Portfolio/static/media/work2.b8553992.jpg",
+    "static/media/work3.jpg": "/React-Portfolio/static/media/work3.27dc07a4.jpg",
+    "static/media/work4.jpg": "/React-Portfolio/static/media/work4.09b0176f.jpg",
+    "static/media/work5.jpg": "/React-Portfolio/static/media/work5.0087a913.jpg",
+    "static/media/work6.jpg": "/React-Portfolio/static/media/work6.056c87aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad08de7.js",
+    "static/js/2.c6eac39d.chunk.js",
+    "static/css/main.c279d164.chunk.css",
+    "static/js/main.52d5ba00.chunk.js"
+  ]
+}
